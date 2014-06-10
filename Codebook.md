@@ -4,12 +4,12 @@ subject
 activity         
      One of six activities performed by subjects
      
-	WALKING
-	WALKING_UPSTAIRS
-	WALKING_DOWNSTAIRS
-	SITTING
-	STANDING
-	LAYING
+     WALKING
+     WALKING_UPSTAIRS
+     WALKING_DOWNSTAIRS
+     SITTING
+     STANDING
+     LAYING
 
 The remaining columns pertain to the mean and standard deviation of accelerometer and gyroscope readings recorded as the subjects
 performed the various activities. These values represent the mean of all readings for each subject and activity.
