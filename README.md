@@ -9,7 +9,7 @@ The script merges the train and test data sets, assigns descriptive activity nam
 Instructions to replicate are as follows:
 
 
-1. Extract following file .zip to your working directory: 
+1. Extract following .zip file to your working directory: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
     You should now have a path similar to C:\Users\your-name\working-directory\getdata_projectfiles_UCI HAR Dataset
