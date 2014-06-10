@@ -1,4 +1,4 @@
-<strong><p>subject</strong></br>
+<strong><p>subject</strong>
 Subject ID - 1:30</p>     
             
 <strong><p>activity</p></strong>
