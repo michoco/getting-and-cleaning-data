@@ -1,3 +1,14 @@
+Output file 'tidy_data.txt' that is produced by run_analysis.R is generated from original data obtained from:
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+<ol>
+<li>Training data sets and test data sets were merged to create a single data set.</li>
+<li>Only measurements on the mean and standard deviation for each measurement were included, ie only column labels that contained 'mean()' or 'std()' were included in the new data set.</li>
+<li>Descriptive names were added for activities, and columns were given appropriate variable names.</li>
+<li>New data set includes the mean of each reading for each activity and each subject.</li>
+</ol>
+
 subject     
      Subject ID - 1:30        
             
