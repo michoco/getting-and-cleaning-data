@@ -3,6 +3,7 @@ subject
             
 activity         
      One of six activities performed by subjects
+     
 	WALKING
 	WALKING_UPSTAIRS
 	WALKING_DOWNSTAIRS
