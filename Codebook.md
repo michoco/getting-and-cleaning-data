@@ -9,6 +9,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 <li>New data set includes the mean of each reading for each activity and each subject.</li>
 </ol>
 
+Variable Descriptions:
+
 subject     
      Subject ID - 1:30        
             
