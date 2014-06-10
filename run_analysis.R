@@ -16,7 +16,7 @@ features <- read.table("./getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/f
 y$activity <- factor(y$V1, levels=activity_labels$V1,labels=activity_labels$V2)
 y$V1 <- NULL
 names(x) <- features$V2
-x <- x[,c(grep("mean()",colnames(x)),grep("std()",colnames(x)))]
+x <- x[,c(grep("mean()",colnames(x),fixed=TRUE),grep("std()",colnames(x),fixed=TRUE))]
 names(subject) <- "subject"
 combined_data <- cbind(subject,y,x)
 
