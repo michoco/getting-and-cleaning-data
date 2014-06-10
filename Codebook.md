@@ -1,5 +1,5 @@
-<strong><p>subject</strong>
-Subject ID - 1:30</p>     
+<strong>subject</strong>
+Subject ID - 1:30  
             
 <strong><p>activity</p></strong>
      <p>One of six activities performed by subjects
