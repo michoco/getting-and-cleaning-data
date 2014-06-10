@@ -1,20 +1,18 @@
-<strong>subject</strong></br>
-Subject ID - 1:30  
+subject     
+     Subject ID - 1:30        
             
-<strong><p>activity</p></strong>
-     <p>One of six activities performed by subjects
-     	<ul>
-	<li>WALKING</li>
-	<li>WALKING_UPSTAIRS</li>
-	<li>WALKING_DOWNSTAIRS</li>
-	<li>SITTING</i>
-	<li>STANDING</li>
-	<li>LAYING</li>
-	</ul>
+activity         
+     One of six activities performed by subjects
+	WALKING
+	WALKING_UPSTAIRS
+	WALKING_DOWNSTAIRS
+	SITTING
+	STANDING
+	LAYING
 
-<strong>The remaining columns pertain to the mean and standard deviation of accelerometer and gyroscope readings recorded as the subjects performed the various activities. These values represent the mean of all readings for each subject and activity.</strong>
-       
-     
+The remaining columns pertain to the mean and standard deviation of accelerometer and gyroscope readings recorded as the subjects
+performed the various activities. These values represent the mean of all readings for each subject and activity.
+              
      tBodyAcc-mean()-X               
      tBodyAcc-mean()-Y              
      tBodyAcc-mean()-Z               
@@ -81,4 +79,3 @@ Subject ID - 1:30
      fBodyBodyAccJerkMag-std()       
      fBodyBodyGyroMag-std()         
      fBodyBodyGyroJerkMag-std()
-     
